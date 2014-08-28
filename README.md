@@ -4,7 +4,7 @@ aquaSlider
 ![alt tag](https://lucasfront.files.wordpress.com/2014/08/print_aqua.png)
 
 ### Sobre
-Este slider foi desenvolvido em jQuery e possui um pesso de 6Kb(css e js Juntos!) em seu site.
+Este slider foi desenvolvido em jQuery e possui um peso de 6Kb(css e js Juntos!) em seu site.
 Ele é bem básico e fácil de personalizar, graças ao seu .Js e .Css serem de fácil entendimento!
 
 ### Implementação
@@ -48,7 +48,7 @@ Trigger do Plugin
 ```
 
 ### Atualizações
-Logo, postarei possiveis atualizações ^^
+Logo, postarei possíveis atualizações ^^
 
 ### Contato ou Suporte
 Tem alguma ideia, dúvida ou algum problema com o plugin, mande um email para lucas_front@yahoo.com.br .
