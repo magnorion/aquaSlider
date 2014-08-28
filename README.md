@@ -1,7 +1,7 @@
 aquaSlider
 ==========
 
-![alt tag](http://url/to/img.png)
+![alt tag](https://lucasfront.files.wordpress.com/2014/08/print_aqua.png)
 
 ### Sobre
 Este slider foi desenvolvido em jQuery e possui um pesso de 6Kb(css e js Juntos!) em seu site.
