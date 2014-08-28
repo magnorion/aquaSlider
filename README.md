@@ -10,12 +10,15 @@ Ele é bem básico e fácil de personalizar, graças ao seu .Js e .Css serem de 
 ### Implementação
 
 Arquivos externos
+```
 <!-- ADD No head -->
   <script src="aqua.min.js"></script>
 	<link rel="stylesheet" href="aqua.min.css" />
 <!-- END -->
+```
 
 Estrutura no HTML
+```
 <!-- ADD extamente onde quer que o slider apareça -->
 <div id="container">
 	<div id="reciveImage">
@@ -31,8 +34,10 @@ Estrutura no HTML
 	<div class="pagCount"></div>
 </div>
 <!-- End -->
+```
 
 Trigger do Plugin
+```
 <!-- ADD no Header ou antes do fim do Body -->
 <script>
   jQuery(document).ready(function(){
@@ -40,6 +45,7 @@ Trigger do Plugin
   });
 </script>
 <!-- END -->
+```
 
 ### Atualizações
 Logo, postarei possiveis atualizações ^^
